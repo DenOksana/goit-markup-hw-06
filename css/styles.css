@@ -203,6 +203,9 @@ font-family: Roboto;
     gap: 40px;
 }
 
+.mobile-social-media-item{
+    bottom: 40px;
+}
 .social-icons-mobile{
     top: 40px;
     right: 40px;
